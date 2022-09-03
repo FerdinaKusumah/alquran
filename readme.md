@@ -2,6 +2,10 @@
 
 Fetch data from kemenag Api
 
+You can used free with this deployment on heroku
+
+[https://python-alquran.herokuapp.com/graphql](https://python-alquran.herokuapp.com/graphql)
+
 ## Help & Bugs
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](https://github.com/FerdinaKusumah/alquran/issues)
